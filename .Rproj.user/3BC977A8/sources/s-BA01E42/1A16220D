@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573930438148.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A16220D",
+    "lastKnownWriteTime" : 1573930433,
+    "last_content_update" : 1573930433,
+    "path" : "C:/Users/craig/Desktop/RProjectExample/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "17,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
